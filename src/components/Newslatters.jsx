@@ -6,13 +6,13 @@ export const Newslatters = () => {
       <h2>Insert Inside all about why React?</h2>
       <article className="article-content">
         <a className="image/list" href="">
-          <img src="./images/react-1.png" alt="React image" />
+          <img src="" alt="React image" />
         </a>
         <a className="image/list" href="">
-          <img src="./images/react-1.png" alt="React image" />
+          <img src="" alt="React image" />
         </a>
         <a className="image/list" href="">
-          <img src="./images/react-1.png" alt="React image" />
+          <img src="" alt="React image" />
         </a>
       </article>
     </div>
